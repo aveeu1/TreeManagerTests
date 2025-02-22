@@ -4,6 +4,8 @@ using System.Windows.Forms;
 
 namespace ATP
 {
+    ///General Description:
+    ///This class offers a convient set of method to update treeview control in O(1) complexity
     class TreeViewManager
     {
         private TreeView m_treeView;
